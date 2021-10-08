@@ -13,6 +13,8 @@ namespace HelloWorld
             Console.WriteLine("Hello World");
 
             Console.WriteLine("Hello Carolyne, it is Martin - good job on the assignment.");
+
+            Console.WriteLine("Hello Martin - Thank you for the applause!");
             
         }
     }
